@@ -1,0 +1,9 @@
+.filterbyfilters {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.filterby {
+  display: flex;
+  padding-right: 20px;
+}
